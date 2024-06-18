@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/purple_200"/> <!-- Red color for pressed state -->
+    <corners android:radius="811dp"/> <!-- Rounded corners for pressed state -->
+</shape>
